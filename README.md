@@ -1,2 +1,2 @@
 # FlaskTestProject
-Blog page project made testing out Flask framework
+Blog page project made for testing out Flask framework
